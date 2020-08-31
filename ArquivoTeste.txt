@@ -1,4 +1,3 @@
 Testando comandos do git
 1
-2
 3
